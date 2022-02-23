@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm in full time internship student in Visual Computing Lab in SNU with [Professor Han][https://jhugestar.github.io/]. And my research interest is on reconstruction 3D image, motion data and computer vision and AR/VR area. I worked in Samsung Bigdata Center 2019.07~2022.01 as a Backend software Engineer and Data Engineer. 
+I'm a internship student in Visual Computing Lab in SNU with [Professor Han][https://jhugestar.github.io/]. And my research interest is on reconstruction 3D image, recognizing and reconstructing motion data and overall AR/VR area. I worked in Samsung Bigdata Center 2019.07~2022.01 as a Backend SW Engineer and Data Engineer. 
+
+
