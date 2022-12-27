@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a internship student in Visual Computing Lab in SNU with [Hanbyul Joo](https://jhugestar.github.io/). And my research interest is on 3D image reconstruction, motion data recognition and reconstruction and also overall AR/VR fields. I worked as a Backend SW Engineer and Data Engineer in Samsung Bigdata Center 2019.07~2022.01.
+I'm a MS/PhD student at Visual Computing Lab in SNU with [Hanbyul Joo](https://jhugestar.github.io/). And my research interest is on 3D human reconstruction, motion data recognition and reconstruction (specially regarding human object interaction) and also overall AR/VR fields. I worked as a Backend SW Engineer and Data Engineer in Samsung Bigdata Center 2019.07~2022.01. 
 
 Education
 ---
@@ -34,5 +34,6 @@ Publications
 
 NEWS
 ---
+ :satisfied: 2022-09 Joined SNU Visual Computing LAB
 
 
