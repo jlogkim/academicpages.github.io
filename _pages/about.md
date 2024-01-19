@@ -24,7 +24,26 @@ Work Experience
 
 Publications
 ---
-
+<div style="display: flex; align-items: center;">
+  <!-- 왼쪽: 사진 -->
+  <img src="https://raw.githubusercontent.com/jlogkim/parahome/master/static/images/teaser_part_resized.jpg" alt="티저 이미지" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <h3>ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions</h3>
+    <span>
+    <a href="https://jhkim24.notion.site/jhkim24/Jeonghwan-Kim-202c26236c3843b2b1c1572eb9fc7fee">Jeonghwan Kim</a><sup>*</sup>,
+    </span>
+    <span>
+    <a href="https://jlogkim.github.io/">Jisoo Kim</a><sup>*</sup>,
+    </span>
+    <span>
+      <a href="https://nagooon.github.io/">Jeonghyeon Na</a>,
+    </span>
+    <span>
+      <a href="https://jhugestar.github.io/">Hanbyul Joo</a>
+    </span>
+    <p>arXiv 2024 <a href="https://jlogkim.github.io/parahome/">(Project Page)</a></p>
+  </div>
+</div>
 
 NEWS
 ---
