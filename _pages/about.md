@@ -47,6 +47,6 @@ Publications
 
 NEWS
 ---
- :satisfied: 2022-09 Joined SNU Visual Computing LAB
+ 2022-09 : Officially Joined SNU Visual Computing LAB :satisfied: 
 
 
