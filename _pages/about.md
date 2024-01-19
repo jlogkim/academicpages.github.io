@@ -14,13 +14,6 @@ Hi! I'm an MS/PhD student at Visual Computing Lab of Seoul National University(S
 
 
 
-Work Experience
----
-
-|<!-- -->|<!-- -->|<!-- -->|
-|-----|-----|-----|
-|2019.07-2022.01|Samsung Eletronics Bigdata Center|Backend SW Engineer/ Data Engineer|
-
 
 Publications
 ---
