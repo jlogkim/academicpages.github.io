@@ -23,7 +23,7 @@ Publications
   <div>
     <h3>ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions</h3>
     <span>
-    <a href="https://jhkim24.notion.site/jhkim24/Jeonghwan-Kim-202c26236c3843b2b1c1572eb9fc7fee">Jeonghwan Kim</a><sup>*</sup>,
+    <a href="https://canoneod.github.io/">Jeonghwan Kim</a><sup>*</sup>,
     </span>
     <span>
     <a href="https://jlogkim.github.io/">Jisoo Kim</a><sup>*</sup>,
